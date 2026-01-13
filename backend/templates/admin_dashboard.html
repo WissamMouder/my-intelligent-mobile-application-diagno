@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Dashboard</title>
+</head>
+<body>
+    <h1>Admin Dashboard</h1>
+    <h2>Doctors awaiting validation</h2>
+    <ul id="doctor-list">
+        {% for doctor in doctors %}
+            <li>
+                {{ doctor.name }} - {{ doctor.email }} - {{ doctor.specialty }}
+                <form action="/admin/validate_doctor" method="post">
+                    <input type="hidden" name="doctor_id" value="{{ doctor.id }}">
+                    <label for="verify">Verify</label>
+                    <input type="radio" id="verify" name="is_verified" value="true">
+                    <label for="reject">Reject</label>
+                    <input type="radio" id="reject" name="is_verified" value="false">
+                    <button type="submit">Submit</button>
+                </form>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
