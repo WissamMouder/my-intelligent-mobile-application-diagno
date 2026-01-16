@@ -1,2 +1,7 @@
-# code-projet-
-projet 
+ This mobile application is an intelligent system I developed to facilitate communication between doctors and patients, allowing them to share analyses and radiology results without needing to travel. Additionally, I integrated artificial intelligence features, including:
+
+ # A chatbot that provides diagnostic suggestions based on the symptoms selected by the patient.
+
+# Radiology scanning to help determine which pulmonary diseases the patient may have.
+
+# The application also includes a web admin template for managing and validating doctors.
