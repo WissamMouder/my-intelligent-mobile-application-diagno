@@ -5,3 +5,10 @@
  Radiology scanning to help determine which pulmonary diseases the patient may have.
 
  The application also includes a web admin template for managing and validating doctors.
+  
+
+
+ # Vedeo 2 for showing Admin template that manage the application from validation doctors and  others tasks
+
+https://github.com/user-attachments/assets/19026ec9-652b-4f38-b2cc-d8bf515ced60
+
