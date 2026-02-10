@@ -1,3 +1,6 @@
+<img width="64" height="64" alt="icons8-react-native-64" src="https://github.com/user-attachments/assets/bcf43fe5-7bab-4ea9-9510-34c9ff650bd5" />
+<img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/c9d17f5a-4c2d-4dd3-9ee6-2a85a53439d6" />
+
  This mobile application  i created  using react  in frontend ,pyton flask backend  is an intelligent system I developed to facilitate communication between doctors and patients, allowing them to share analyses and radiology results without needing to travel. Additionally, I integrated artificial intelligence features, including:
 
   A chatbot that provides diagnostic suggestions based on the symptoms selected by the patient.
