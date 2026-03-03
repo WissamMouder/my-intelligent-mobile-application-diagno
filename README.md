@@ -17,6 +17,8 @@ https://github.com/user-attachments/assets/eccdc49d-4c6a-40e6-85fa-d890b4cdcfa5
  # Vedeo 2 for showing Admin template that manage the application from validation doctors and  others tasks
 
 
+https://github.com/user-attachments/assets/fffef0b7-1a03-4083-b385-d611ab8a14ae
+
 
  ##  How to Run the Application
 
@@ -157,7 +159,6 @@ Desktop/diagno/fibrose
 ```
 
  
-https://github.com/user-attachments/assets/fffef0b7-1a03-4083-b385-d611ab8a14ae
 
 
 
