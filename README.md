@@ -15,6 +15,147 @@ https://github.com/user-attachments/assets/eccdc49d-4c6a-40e6-85fa-d890b4cdcfa5
 
 
  # Vedeo 2 for showing Admin template that manage the application from validation doctors and  others tasks
+
+
+
+ ##  How to Run the Application
+
+This project contains:
+
+* Frontend → React Expo mobile application
+* Backend → Flask Python server
+
+---
+
+##  Frontend (Expo React Application)
+
+### 1. Install Node.js and Expo CLI
+
+```bash
+npm install -g expo-cli
+```
+
+---
+
+### 2. Go to Frontend Directory
+
+Assume the frontend project is located in:
+
+```
+Desktop/diagno/fibrose
+```
+
+Enter the directory:
+
+```bash
+cd Desktop/diagno/fibrose
+```
+
+---
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+### 4. Start Expo Application
+
+```bash
+npm start
+```
+
+Then scan the QR code using Expo Go mobile app.
+
+---
+
+##  Backend (Flask Python Server)
+
+### 1. Install Python
+
+Make sure Python 3.x is installed.
+
+Check version:
+
+```bash
+python --version
+```
+
+---
+
+### 2. Go to Backend Folder
+
+Inside the project backend directory:
+
+```bash
+cd backend
+```
+
+---
+
+### 3. Create Virtual Environment (Recommended)
+
+```bash
+python -m venv venv
+```
+
+Activate environment:
+
+Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+Linux/Mac:
+
+```bash
+source venv/bin/activate
+```
+
+---
+
+### 4. Install Python Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+If requirements.txt does not exist:
+
+```bash
+pip install flask flask-cors numpy pandas scikit-learn
+```
+
+---
+
+### 5. Run Flask Server
+
+```bash
+python app.py
+```
+
+The backend server will run usually on:
+
+```
+http://127.0.0.1:5000
+```
+
+---
+
+
+## 🎯 Project Structure
+
+```
+Desktop/diagno/fibrose
+│
+├── frontend (Expo React App)
+├── backend (Flask Python API)
+└── README.md
+```
+
  
 https://github.com/user-attachments/assets/fffef0b7-1a03-4083-b385-d611ab8a14ae
 
