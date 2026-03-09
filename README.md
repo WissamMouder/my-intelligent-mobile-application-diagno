@@ -6,7 +6,8 @@
   A chatbot that provides diagnostic suggestions based on the symptoms selected by the patient.
 
  Radiology scanning to help determine which pulmonary diseases the patient may have.
- for Disease detection models i built  it using TensorFlow with Transfer Learning (ResNet-50) for accurate classification.
+ 
+well for Disease detection models i built  it using TensorFlow with Transfer Learning (ResNet-50) for accurate classification.
 
  and  Custom machine learning-based chatbot that I implemented with Flask, NLTK, and TensorFlow, handling intents and responses through tokenization, lemmatization, and bag-of-words representation.
 
